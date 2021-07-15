@@ -22,7 +22,7 @@ This is my solution to the stat-preview-card-component project. I used vanilla H
 
 ### Screenshot
 
-![](./screenshot.png)
+![Screenshot of my Solution](./screenshot.png)
 
 ### Links
 
